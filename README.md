@@ -1,3 +1,9 @@
+# Accessible autocomplete in the GOV.UK Prototype Kit
+
+This is an example of how to use the [accessible autocomplete component](https://github.com/alphagov/accessible-autocomplete) in the [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit). 
+
+Follow this [step by step guide](https://gist.github.com/alextea/2ec78934472fdb3b1433b342c2ef18d3) on how to get it working on your own prototype.
+
 # GOV.UK Prototype Kit
 
 Go to the [GOV.UK Prototype Kit site](https://govuk-prototype-kit.herokuapp.com/docs) to download the latest version and read the documentation.
